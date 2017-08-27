@@ -1,0 +1,3 @@
+[submodule "taggle.js"]
+	path = taggle.js
+	url = git@github.com:okcoker/taggle.js.git
