@@ -1,4 +1,4 @@
-# Taggle-Rails
+# Taggle-Rails [![Gem Version](https://badge.fury.io/rb/taggle-rails.svg)](https://badge.fury.io/rb/taggle-rails)
 This gem packages [Taggle.js](https://github.com/okcoker/taggle.js) for easy inclusion in Rails applications.
 
 ## Installation
